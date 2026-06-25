@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621750741464",
+    "project_id": "team-task-management-app-ab197",
+    "storage_bucket": "team-task-management-app-ab197.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621750741464:android:b8382a91317262ea936aad",
+        "android_client_info": {
+          "package_name": "com.example.team_task_management_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpi2iNwLPQ8kqOShoJYmfDi9C4AvtCfv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
